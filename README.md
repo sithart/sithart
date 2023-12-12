@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sitharthan
 - 👀 I’m interested in Problem Solving.
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning Pyspark.
 - 💞️ I’m looking to collaborate on Open source projects.
 - 📫 How to reach me siddhumirudhul@gmail.com | +91 8098853852
 
